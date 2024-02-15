@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "3rdparty/glm-1.0.0/glm",
+		"source" : "3rdparty/glm-1.0.0/glm"
+	}
+}

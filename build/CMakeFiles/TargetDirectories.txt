@@ -1,0 +1,8 @@
+C:/VSCode_files/vulkan2D/build/CMakeFiles/vulkan2D.dir
+C:/VSCode_files/vulkan2D/build/CMakeFiles/ALL_BUILD.dir
+C:/VSCode_files/vulkan2D/build/CMakeFiles/ZERO_CHECK.dir
+C:/VSCode_files/vulkan2D/build/3rdparty/glfw/CMakeFiles/ALL_BUILD.dir
+C:/VSCode_files/vulkan2D/build/3rdparty/glfw/src/CMakeFiles/update_mappings.dir
+C:/VSCode_files/vulkan2D/build/3rdparty/glfw/src/CMakeFiles/glfw.dir
+C:/VSCode_files/vulkan2D/build/3rdparty/glm-1.0.0/CMakeFiles/ALL_BUILD.dir
+C:/VSCode_files/vulkan2D/build/3rdparty/glm-1.0.0/glm/CMakeFiles/glm.dir

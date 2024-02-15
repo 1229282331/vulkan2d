@@ -1,0 +1,10 @@
+^C:\VSCODE_FILES\VULKAN2D\3RDPARTY\GLM-1.0.0\GLM\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/VSCode_files/vulkan2D -BC:/VSCode_files/vulkan2D/build --check-stamp-file C:/VSCode_files/vulkan2D/build/3rdparty/glm-1.0.0/glm/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\app.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\vkBase.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\window.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\app.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\utils.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\vkBase.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\window.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\VSCode_files\vulkan2D\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3DB91171-088B-37A0-B812-5673A6073B29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{B2914117-9995-3707-880F-5893696D63C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{F7E32279-0CD3-3575-84D2-867B2C9B253A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

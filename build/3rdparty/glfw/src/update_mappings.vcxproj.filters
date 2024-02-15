@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\VSCode_files\vulkan2D\build\CMakeFiles\c7598c01b368faa75e28e8ea197973d8\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\VSCode_files\vulkan2D\3rdparty\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\VSCode_files\vulkan2D\3rdparty\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\VSCode_files\vulkan2D\3rdparty\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\VSCode_files\vulkan2D\build\3rdparty\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1CC3F1A-41B5-3696-82D4-41D0664C7CAA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{00DB4B58-2E3F-323F-817B-37023EE90B0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

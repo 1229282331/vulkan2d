@@ -17,10 +17,10 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "glfw::@0aa6f7fc354a61a17aaf"
+			"id" : "vulkan2D::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "vulkan2D::@6890427a1f51a3e7e1df"
+			"id" : "glfw::@0aa6f7fc354a61a17aaf"
 		},
 		{
 			"id" : "glm::@c2ddc479b55c143a13a4"

@@ -7,6 +7,33 @@
     <ClCompile Include="C:\VSCode_files\vulkan2D\src\app.cpp">
       <Filter>src</Filter>
     </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\buffer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\command_manager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\commander.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\descriptor_manager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\myMath.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\render_process.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\renderer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\shader.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\VSCode_files\vulkan2D\src\swapchain.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
     <ClCompile Include="C:\VSCode_files\vulkan2D\src\vkBase.cpp">
       <Filter>src</Filter>
     </ClCompile>
@@ -16,6 +43,33 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\VSCode_files\vulkan2D\include\app.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\buffer.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\command_manager.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\commander.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\descriptor_manager.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\myMath.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\render_process.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\renderer.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\shader.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\VSCode_files\vulkan2D\include\swapchain.hpp">
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="C:\VSCode_files\vulkan2D\include\utils.hpp">

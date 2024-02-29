@@ -114,6 +114,8 @@ void Commander::transitionImageLayout(vk::Image image, vk::Format format, vk::Im
                .setDstAccessMask(dstAccess);    /*设置哪一操作需要等待该屏障（布局变换）完成*/
         m_cmdBuffer.pipelineBarrier(srcStage, dstStage, vk::DependencyFlags(0), nullptr, nullptr, barrier);
     endSingleTimeCommands();
+
+    
     /*2.提交命令*/
     submit();
     /*3.复位栅栏并重置命令缓冲*/
